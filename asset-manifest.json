@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/color-scheme-generator/static/css/main.ef772f3b.css",
+    "main.css": "/color-scheme-generator/static/css/main.c7f89b2f.css",
     "main.js": "/color-scheme-generator/static/js/main.fc0cff0f.js",
     "index.html": "/color-scheme-generator/index.html",
-    "main.ef772f3b.css.map": "/color-scheme-generator/static/css/main.ef772f3b.css.map",
+    "main.c7f89b2f.css.map": "/color-scheme-generator/static/css/main.c7f89b2f.css.map",
     "main.fc0cff0f.js.map": "/color-scheme-generator/static/js/main.fc0cff0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef772f3b.css",
+    "static/css/main.c7f89b2f.css",
     "static/js/main.fc0cff0f.js"
   ]
 }
